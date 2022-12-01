@@ -1,0 +1,483 @@
+[
+  {
+    "id": 101,
+    "Name": "Golden Printed Shirt",
+    "price":7999.00,
+    "Brand":"Versache",
+    "image": "/assets/1.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 102,
+    "Name": "Blue Formal Shirt",
+    "price":9999.00,
+    "Brand":"Raymond",
+    "image": "/assets/2.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 103,
+    "Name": "Winter Denim Jacket",
+    "price":4989.00,
+    "Brand":"Zara",
+    "image": "/assets/3.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 104,
+    "Name": "White T-Shirt",
+    "price":1499.00,
+    "Brand":"Trends",
+    "image": "/assets/4.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 105,
+    "Name": "White Office Casual Shirt",
+    "price":11199.00,
+    "Brand":"Raymond",
+    "image": "/assets/5.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 106,
+    "Name": "Blue Blazer",
+    "price":8999.00,
+    "Brand":"Raymond",
+    "image": "/assets/6.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 107,
+    "Name": "Casual Shorts",
+    "price":2599.00,
+    "Brand":"Allen Solly",
+    "image": "/assets/7.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 108,
+    "Name": "Black Printed Tee",
+    "price":5799.00,
+    "Brand":"Versache",
+    "image": "/assets/8.webp",
+    "category":"mensclothing"
+  },
+  {
+    "id": 109,
+    "Name": "Grey Blazer",
+    "price":7799.00,
+    "Brand":"Raymond",
+    "image": "/assets/9.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 110,
+    "Name": "White Casual Shirt",
+    "price":5899.00,
+    "Brand":"Zara",
+    "image": "/assets/10.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 111,
+    "Name": "Black Prined Shirt",
+    "price":799.00,
+    "Brand":"Versache",
+    "image": "/assets/11.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 112,
+    "Name": "Black Prited Tee",
+    "price":799.00,
+    "Brand":"Versache",
+    "image": "/assets/12.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 113,
+    "Name": "White Casual T-Shirt",
+    "price":3999.00,
+    "Brand":"Polo",
+    "image": "/assets/13.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 114,
+    "Name": "Black Prined Shirt",
+    "price":799.00,
+    "Brand":"Versache",
+    "image": "/assets/14.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 115,
+    "Name": "Red T-Shirt",
+    "price":2599.00,
+    "Brand":"Versache",
+    "image": "/assets/15.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 116,
+    "Name": "White Formal Shirt",
+    "price":7599.00,
+    "Brand":"Peter England",
+    "image": "/assets/16.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 117,
+    "Name": "Brown Leather Jacket",
+    "price":14599.00,
+    "Brand":"Roadster",
+    "image": "/assets/17.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 118,
+    "Name": "Winter Leather Jackets",
+    "price":7399.00,
+    "Brand":"Roadster",
+    "image": "/assets/18.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 119,
+    "Name": "Cream Casual Shorts",
+    "price":2799.00,
+    "Brand":"Peter England",
+    "image": "/assets/19.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 120,
+    "Name": "Denim Jacket",
+    "price":3799.00,
+    "Brand":"Zara",
+    "image": "/assets/20.jpg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 121,
+    "Name": "Casual Denim",
+    "price":3299.00,
+    "Brand":"Zara",
+    "image": "/assets/21.jpeg",
+    "category":"mensclothing"
+  },
+  {
+    "id": 201,
+    "Name": "Casual Girl Denim",
+    "price":4699.00,
+    "Brand":"Zara",
+    "image": "/assets/22.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 202,
+    "Name": "Winter Girl Denim",
+    "price":3999.00,
+    "Brand":"Zara",
+    "image": "/assets/23.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 203,
+    "Name": "Leather Jackets",
+    "price":8599.00,
+    "Brand":"Zara",
+    "image": "/assets/24.webp",
+    "category":"womensclothing"
+  },
+  {
+    "id": 204,
+    "Name": "Leather Coat",
+    "price":9599.00,
+    "Brand":"Zara",
+    "image": "/assets/25.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 205,
+    "Name": "Casual Tees",
+    "price":999.00,
+    "Brand":"Zara",
+    "image": "/assets/26.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 206,
+    "Name": "Jeans Shorts for Girls",
+    "price":1199.00,
+    "Brand":"Zara",
+    "image": "/assets/27.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 207,
+    "Name": "Casual Tops",
+    "price":899.00,
+    "Brand":"Zara",
+    "image": "/assets/28.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 208,
+    "Name": "Casual Printed Top",
+    "price":4999.00,
+    "Brand":"Utsa",
+    "image": "/assets/29.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 209,
+    "Name": "Sweat Shirt",
+    "price":5999.00,
+    "Brand":"Max",
+    "image": "/assets/30.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 210,
+    "Name": "Printed Mini Top",
+    "price":9999.00,
+    "Brand":"Trends",
+    "image": "/assets/31.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 211,
+    "Name": "Sleeveless Top",
+    "price":1999.00,
+    "Brand":"Soch",
+    "image": "/assets/32.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 212,
+    "Name": "White Casual Shirt",
+    "price":49999.00,
+    "Brand":"Vero Moda",
+    "image": "/assets/33.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 213,
+    "Name": "Mini Top",
+    "price":3999.00,
+    "Brand":"H&M",
+    "image": "/assets/34.jpg",
+    "category":"womensclothing"
+  },
+  {
+    "id": 301,
+    "Name": "Dad and Son Combo",
+    "price":19999.00,
+    "Brand":"Bon Bebe",
+    "image": "/assets/35.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 302,
+    "Name": "Kiddo Red Frock",
+    "price":10000.00,
+    "Brand":"Zara",
+    "image": "/assets/36.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 303,
+    "Name": "Wow Blue Printed Frock",
+    "price":7999.00,
+    "Brand":"Babyhug",
+    "image": "/assets/37.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 304,
+    "Name": "classy Red Frock",
+    "price":39999.00,
+    "Brand":"Hopscotch",
+    "image": "/assets/38.webp",
+    "category":"Kids"
+  },
+  {
+    "id": 305,
+    "Name": "Little Boy asset",
+    "price":5999.00,
+    "Brand":"Boden",
+    "image": "/assets/39.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 306,
+    "Name": "Denim Party wear",
+    "price":20000.00,
+    "Brand":"Bonpoint",
+    "image": "/assets/40.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 307,
+    "Name": "Denim Maxi Wear",
+    "price":9999.00,
+    "Brand":"Hanna Anderson",
+    "image": "/assets/41.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 308,
+    "Name": "Red Party Frock",
+    "price":29999.00,
+    "Brand":"Zara",
+    "image": "/assets/42.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 309,
+    "Name": "White Boy Asset",
+    "price":2999.00,
+    "Brand":"Carter",
+    "image": "/assets/43.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 310,
+    "Name": "Casual White Combo",
+    "price":1999.00,
+    "Brand":"Little Kangaroos",
+    "image": "/assets/44.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 311,
+    "Name": "White Printed",
+    "price":4999.00,
+    "Brand":"Burberry",
+    "image": "/assets/45.webp",
+    "category":"Kids"
+  },
+  {
+    "id": 312,
+    "Name": "Rainbow Printed",
+    "price":9999.00,
+    "Brand":"Cat&Jack",
+    "image": "/assets/46.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 313,
+    "Name": "Yellow Crush",
+    "price":4999.00,
+    "Brand":"Gymboree",
+    "image": "/assets/47.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 314,
+    "Name": "Casual Tshirts",
+    "price":999.00,
+    "Brand":"Nautinati",
+    "image": "/assets/48.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 315,
+    "Name": "Mini Frock",
+    "price":1999.00,
+    "Brand":"Gapkids",
+    "image": "/assets/49.jpg",
+    "category":"Kids"
+  },
+
+  {
+    "id": 316,
+    "Name": "Tee and Shorts",
+    "price":1599.00,
+    "Brand":"mothercare",
+    "image": "/assets/50.jpg",
+    "category":"Kids"
+  },
+  {
+    "id": 401,
+    "Name": "Vibrant",
+    "price":49999.00,
+    "Brand":"GUCCI",
+    "image": "/assets/51.jpg",
+    "category":"shoes"
+  },
+  {
+    "id": 402,
+    "Name": "Wedged Heel",
+    "price":9999.00,
+    "Brand":"Clarks",
+    "image": "/assets/52.jpg",
+    "category":"shoes"
+  },
+  {
+    "id": 403,
+    "Name": "Pointed Heel",
+    "price":7999.00,
+    "Brand":"Mochi",
+    "image": "/assets/53.jpg",
+    "category":"shoes"
+  },
+  {
+    "id": 404,
+    "Name": "Disney World Shoe",
+    "price":899.00,
+    "Brand":"Puma",
+    "image": "/assets/54.jpg",
+    "category":"shoes"
+  },
+  {
+    "id": 405,
+    "Name": "Casualwear",
+    "price":3999.00,
+    "Brand":"Khadims",
+    "image": "/assets/55.jpg",
+    "category":"shoes"
+  },
+  {
+    "id": 406,
+    "Name": "Formalwear",
+    "price":7999.00,
+    "Brand":"Converse",
+    "image": "/assets/56.jpg",
+    "category":"shoes"
+  },
+  {
+    "id": 407,
+    "Name": "Sportswear",
+    "price":28999.00,
+    "Brand":"Nike",
+    "image": "/assets/57.jpg",
+    "category":"shoes"
+  },
+  {
+    "id": 408,
+    "Name": "Babywear",
+    "price":999.00,
+    "Brand":"Reebok",
+    "image": "/assets/58.jpg",
+    "category":"shoes"
+  },
+  {
+    "id": 409,
+    "Name": "Casualwear",
+    "price":4999.00,
+    "Brand":"Skechers",
+    "image": "/assets/59.jpg",
+    "category":"shoes"
+  },
+  {
+    "id": 410,
+    "Name": "Classywear",
+    "price":50999.00,
+    "Brand":"Adidas",
+    "image": "/assets/60.jpg",
+    "category":"shoes"
+  }
+]

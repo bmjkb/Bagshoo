@@ -1,0 +1,65 @@
+.example-spacer {
+    flex:1 1 auto;
+}
+.example-icon login-icon{
+      padding-left:20% ;
+}
+.queen{
+    font-family: Faster One,Eduardo Tunni;
+    margin-left: 5px;
+}
+img{
+    width:100%;
+    height: 100%;
+}
+.flow a{
+    font-size: 2rem;
+    padding: 0 1.5rem;
+    color: #666;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.flow a:hover{
+    color: var(--pink);
+}
+.about{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: #ffffff;
+}
+.about img{
+    height: auto;
+    width: 420px;
+}
+.about-text{
+    width: 550px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.about-text h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 65px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.about-text h5{
+  align-items: center;
+    color: white;
+    font-size: 35px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+
+
+
+

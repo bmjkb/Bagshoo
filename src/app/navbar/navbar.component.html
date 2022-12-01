@@ -1,0 +1,41 @@
+<mat-toolbar>
+    <mat-toolbar-row>
+      <mat-icon>shopping_bag</mat-icon>
+      <span style="font-family:Georgia, 'Times New Roman', Times, serif; cursor: pointer;" routerLink="/home"><strong>BAGSHOO</strong></span>
+      
+      <div class="search-container">
+        <input type="text" placeholder="Search " name="search"[(ngModel)]="getProduct">
+        <button *ngIf="getProduct" type="submit" (click)="search()" ><i class="fa fa-search"></i></button>
+      </div>
+
+      <button routerLink="/cart" class="btn primary mb">
+        <i style="font-size:25px;color: black;"class="fa fa-cart-plus"></i>
+        <div style="font-size:10px;color:white;"class="badge bg-danger">{{totalItem}}</div>
+      </button>
+      
+      <div class="dropdown"> 
+        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+                  aria-haspopup="true" aria-expanded="false">
+                  <i class="fa-solid fa-circle-user" style="font-size: 25px;  color:rgb(0, 0, 0) ;"></i>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+          <a class="dropdown-item"  style="text-decoration: none;" routerLink="/profile">My Profile</a>
+          <a class="dropdown-item"  style="text-decoration: none;"(click)="Logout()">Logout</a>
+        </div>
+      </div>
+    </mat-toolbar-row>
+</mat-toolbar>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 

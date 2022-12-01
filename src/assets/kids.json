@@ -1,0 +1,129 @@
+[{
+  "id": 301,
+  "Name": "Dad and Son Combo",
+  "price":19999.00,
+  "Brand":"Bon Bebe",
+  "image": "/assets/35.jpg",
+  "category":"Kids"
+},
+{
+  "id": 302,
+  "Name": "Kiddo Red Frock",
+  "price":10000.00,
+  "Brand":"Zara",
+  "image": "/assets/36.jpg",
+  "category":"Kids"
+},
+{
+  "id": 303,
+  "Name": "Wow Blue Printed Frock",
+  "price":7999.00,
+  "Brand":"Babyhug",
+  "image": "/assets/37.jpg",
+  "category":"Kids"
+},
+{
+  "id": 304,
+  "Name": "classy Red Frock",
+  "price":39999.00,
+  "Brand":"Hopscotch",
+  "image": "/assets/38.webp",
+  "category":"Kids"
+},
+{
+  "id": 305,
+  "Name": "Little Boy asset",
+  "price":5999.00,
+  "Brand":"Boden",
+  "image": "/assets/39.jpg",
+  "category":"Kids"
+},
+{
+  "id": 306,
+  "Name": "Denim Party wear",
+  "price":20000.00,
+  "Brand":"Bonpoint",
+  "image": "/assets/40.jpg",
+  "category":"Kids"
+},
+{
+  "id": 307,
+  "Name": "Denim Maxi Wear",
+  "price":9999.00,
+  "Brand":"Hanna Anderson",
+  "image": "/assets/41.jpg",
+  "category":"Kids"
+},
+{
+  "id": 308,
+  "Name": "Red Party Frock",
+  "price":29999.00,
+  "Brand":"Zara",
+  "image": "/assets/42.jpg",
+  "category":"Kids"
+},
+{
+  "id": 309,
+  "Name": "White Boy Asset",
+  "price":2999.00,
+  "Brand":"Carter",
+  "image": "/assets/43.jpg",
+  "category":"Kids"
+},
+{
+  "id": 310,
+  "Name": "Casual White Combo",
+  "price":1999.00,
+  "Brand":"Little Kangaroos",
+  "image": "/assets/44.jpg",
+  "category":"Kids"
+},
+{
+  "id": 311,
+  "Name": "White Printed",
+  "price":4999.00,
+  "Brand":"Burberry",
+  "image": "/assets/45.webp",
+  "category":"Kids"
+},
+{
+  "id": 312,
+  "Name": "Rainbow Printed",
+  "price":9999.00,
+  "Brand":"Cat&Jack",
+  "image": "/assets/46.jpg",
+  "category":"Kids"
+},
+{
+  "id": 313,
+  "Name": "Yellow Crush",
+  "price":4999.00,
+  "Brand":"Gymboree",
+  "image": "/assets/47.jpg",
+  "category":"Kids"
+},
+{
+  "id": 314,
+  "Name": "Casual Tshirts",
+  "price":999.00,
+  "Brand":"Nautinati",
+  "image": "/assets/48.jpg",
+  "category":"Kids"
+},
+{
+  "id": 315,
+  "Name": "Mini Frock",
+  "price":1999.00,
+  "Brand":"Gapkids",
+  "image": "/assets/49.jpg",
+  "category":"Kids"
+},
+
+{
+  "id": 316,
+  "Name": "Tee and Shorts",
+  "price":1599.00,
+  "Brand":"mothercare",
+  "image": "/assets/50.jpg",
+  "category":"Kids"
+}]

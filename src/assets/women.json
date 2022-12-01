@@ -1,0 +1,104 @@
+[{
+  "id": 201,
+  "Name": "Casual Girl Denim",
+  "price":4699.00,
+  "Brand":"Zara",
+  "image": "/assets/22.jpg",
+  "category":"womensclothing"
+},
+{
+  "id": 202,
+  "Name": "Winter Girl Denim",
+  "price":3999.00,
+  "Brand":"Zara",
+  "image": "/assets/23.jpg",
+  "category":"womensclothing"
+},
+{
+  "id": 203,
+  "Name": "Leather Jackets",
+  "price":8599.00,
+  "Brand":"Zara",
+  "image": "/assets/24.webp",
+  "category":"womensclothing"
+},
+{
+  "id": 204,
+  "Name": "Leather Coat",
+  "price":9599.00,
+  "Brand":"Zara",
+  "image": "/assets/25.jpg",
+  "category":"womensclothing"
+},
+{
+  "id": 205,
+  "Name": "Casual Tees",
+  "price":999.00,
+  "Brand":"Zara",
+  "image": "/assets/26.jpg",
+  "category":"womensclothing"
+},
+{
+  "id": 206,
+  "Name": "Jeans Shorts for Girls",
+  "price":1199.00,
+  "Brand":"Zara",
+  "image": "/assets/27.jpg",
+  "category":"womensclothing"
+},
+{
+  "id": 207,
+  "Name": "Casual Tops",
+  "price":899.00,
+  "Brand":"Zara",
+  "image": "/assets/28.jpg",
+  "category":"womensclothing"
+},
+{
+  "id": 208,
+  "Name": "Casual Printed Top",
+  "price":4999.00,
+  "Brand":"Utsa",
+  "image": "/assets/29.jpg",
+  "category":"womensclothing"
+},
+{
+  "id": 209,
+  "Name": "Sweat Shirt",
+  "price":5999.00,
+  "Brand":"Max",
+  "image": "/assets/30.jpg",
+  "category":"womensclothing"
+},
+{
+  "id": 210,
+  "Name": "Printed Mini Top",
+  "price":9999.00,
+  "Brand":"Trends",
+  "image": "/assets/31.jpg",
+  "category":"womensclothing"
+},
+{
+  "id": 211,
+  "Name": "Sleeveless Top",
+  "price":1999.00,
+  "Brand":"Soch",
+  "image": "/assets/32.jpg",
+  "category":"womensclothing"
+},
+{
+  "id": 212,
+  "Name": "White Casual Shirt",
+  "price":49999.00,
+  "Brand":"Vero Moda",
+  "image": "/assets/33.jpg",
+  "category":"womensclothing"
+},
+{
+  "id": 213,
+  "Name": "Mini Top",
+  "price":3999.00,
+  "Brand":"H&M",
+  "image": "/assets/34.jpg",
+  "category":"womensclothing"
+}]

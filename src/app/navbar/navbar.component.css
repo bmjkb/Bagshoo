@@ -1,0 +1,41 @@
+
+.search{
+  margin-left: 30%;
+  width: 150%;
+  
+}
+form{
+  border-radius: 25px;
+}
+.cart{ 
+  margin-left: 2%;
+  font-size: 25px;
+}
+.user{ 
+  margin-left: 0%;
+  font-size: 25px;
+} 
+.form-inline{
+  padding: 30%;
+}
+.fa-solid fa-circle-user{
+  font-size: 25px;
+}
+
+.search-container{
+     margin-left: 30%;
+     width: 45%;
+     padding: 20px 15px;
+     border-radius: 7px;
+   }
+   .btn-secondary{
+     background: none;
+     border: none;    
+    }
+    .search-container input {
+      border-radius: 10px;
+    }
+    .search-container button {
+      border-radius: 10px;
+    }
+ 

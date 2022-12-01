@@ -1,0 +1,206 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css");
+img{
+    height: 120px;
+    width: 120px;
+    margin-left: 3%;
+    object-fit: cover;
+    align-items: center;
+}
+.a{
+    padding-left: 20px;
+    width: 280px;
+    height: 160px;
+    padding-top: 20px;
+    margin-bottom: 1rem;
+    z-index: auto;
+}
+
+.container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:50%;
+    width:70%;
+    
+}
+button{
+    margin-bottom: 0px;
+    
+}
+/* .card-img-top{
+    height: 25%;
+} */ 
+
+
+
+
+
+
+
+/* .example-spacer {
+    flex: 1 1 auto;
+  }
+  .AA{
+    width: 130%;
+    border-radius: 25px;
+    margin-right: 10px;
+  }
+.buttons{
+  padding-left:15%;
+  margin: 0;
+  border: none;
+}
+.D{
+margin-left: 170px;
+}
+.ic{
+  padding-top: 7px;
+}
+.BB{
+  height: 36px;
+}
+.sides{
+  width: 30%;
+} */
+
+
+.example-container {
+  width: 100%;
+  height: 100%;
+  margin: 12px;
+}
+mat-drawer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+mat-drawer{
+    width: 20%;
+}
+mat-sidenav{
+  width: 23%;
+} 
+p{
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
+  line-height: 22px;
+}
+.cardContainer {
+  position:relative;
+  width: 270px;
+  height: 300px;
+  min-width: 250px;
+  min-height: 400px;
+  margin-left: 3px;
+  margin: 4px;
+  -webkit-perspective: 1000px;
+          perspective: 1000px;
+}
+
+.active {
+  -webkit-transform: translateZ(0px) rotateY(180deg) !important;
+          transform: translateZ(0px) rotateY(180deg) !important;
+}
+.active:after {
+  display: none;
+}
+
+.card{
+  display: inline-block; 
+  border:2px solid; 
+  width: 90%;
+  height: 90%;
+  cursor: pointer;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  -webkit-transform: translateZ(-100px);
+          transform: translateZ(-100px);
+  transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.card:hover {
+  -webkit-transform: translateZ(0px);
+          transform: translateZ(0px);
+}
+.card:hover:after {
+  opacity: 1;
+}
+.card .side {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  width: 220px;
+  height: 200px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+ .card .info {
+  padding: 7px;
+} 
+
+.front .img {
+  background-color: #dadce2;
+  background-position: center;
+  background-size: cover;
+  border-radius: 5px 5px 5px 5px;
+  margin-top: 10px;
+  margin-left: 10px;
+  align-items: center;
+  
+  width: 200px;
+  height: 190px;
+}
+.product-details{
+  color: rgb(0, 0, 3);
+}
+.big{
+  margin-left: 5%;
+}
+.AA{
+  text-align: center;
+  width: 100%;
+  font-family:'Kalam', cursive;
+}
+/* .bartop{
+  background-image: url("/assets/others/reb.jpg");
+  height:500px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:100% 90%;
+} */
+::selection{
+  background-color:rgb(6, 102, 146) ;
+}
+.ci{
+  margin-left: 80%;
+  color: rgb(114, 114, 114);
+  cursor: pointer;
+}
+mat-toolbar-row{
+  width: 110%;
+}
+.like{
+  width: 120%;
+}
+.text-center input{
+  border-radius: 20px;
+  text-align: center;
+  margin-left: 30px;
+  width: 50px;
+  background-color:palegreen;
+}
+.heart{
+  margin-right:20px;
+}
+.noheart{
+  margin-left: 48px;
+}
+button{
+    width: 100%;
+}
+.card-text{
+    font-size: medium;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+

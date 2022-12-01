@@ -1,0 +1,60 @@
+@import url(https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css);
+.card{
+    width:50%;
+    margin-left: 25%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size:15px;
+    border: 1px solid black;
+    background: none;
+    
+}
+.card-header{
+    font-weight: 800;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.rtl{
+    text-decoration: none;
+    cursor:pointer;
+    padding-left: 20%;
+    color: white;
+}
+input[type="email"]{
+    background: url("/assets/email1.jpg") no-repeat scroll 7px 7px;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: 96% 55%;
+    padding-right: 10px;
+    border: solid 1px black;
+    
+}
+input[type="password"]{
+    background: url("/assets/pass1.jpg") no-repeat scroll 7px 7px;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: 96% 55%;
+    padding-right: 10px;
+    border: solid 1px black;
+}
+input[placeholder="Enter your email"]{
+    font:Baskervville, ANRT;
+}
+body{
+    padding-top: 10%;
+    background-image: url("/assets/login.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    padding-top: 10%;
+}
+ .card-body{
+    background: none;
+} 
+::placeholder{
+    color: rgb(0, 0, 0);
+}
+
+.bn{
+   margin-left: 20%;
+   
+}

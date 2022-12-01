@@ -1,0 +1,81 @@
+[{
+  "id": 401,
+  "Name": "Vibrant",
+  "price":49999.00,
+  "Brand":"GUCCI",
+  "image": "/assets/51.jpg",
+  "category":"shoes"
+},
+{
+  "id": 402,
+  "Name": "Wedged Heel",
+  "price":9999.00,
+  "Brand":"Clarks",
+  "image": "/assets/52.jpg",
+  "category":"shoes"
+},
+{
+  "id": 403,
+  "Name": "Pointed Heel",
+  "price":7999.00,
+  "Brand":"Mochi",
+  "image": "/assets/53.jpg",
+  "category":"shoes"
+},
+{
+  "id": 404,
+  "Name": "Disney World Shoe",
+  "price":899.00,
+  "Brand":"Puma",
+  "image": "/assets/54.jpg",
+  "category":"shoes"
+},
+{
+  "id": 405,
+  "Name": "Casualwear",
+  "price":3999.00,
+  "Brand":"Khadims",
+  "image": "/assets/55.jpg",
+  "category":"shoes"
+},
+{
+  "id": 406,
+  "Name": "Formalwear",
+  "price":7999.00,
+  "Brand":"Converse",
+  "image": "/assets/56.jpg",
+  "category":"shoes"
+},
+{
+  "id": 407,
+  "Name": "Sportswear",
+  "price":28999.00,
+  "Brand":"Nike",
+  "image": "/assets/57.jpg",
+  "category":"shoes"
+},
+{
+  "id": 408,
+  "Name": "Babywear",
+  "price":999.00,
+  "Brand":"Reebok",
+  "image": "/assets/58.jpg",
+  "category":"shoes"
+},
+{
+  "id": 409,
+  "Name": "Casualwear",
+  "price":4999.00,
+  "Brand":"Skechers",
+  "image": "/assets/59.jpg",
+  "category":"shoes"
+},
+{
+  "id": 410,
+  "Name": "Classywear",
+  "price":50999.00,
+  "Brand":"Adidas",
+  "image": "/assets/60.jpg",
+  "category":"shoes"
+}
+]

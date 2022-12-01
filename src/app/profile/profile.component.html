@@ -1,0 +1,121 @@
+<app-navbar></app-navbar>
+<h2 style="text-align:center;margin-top: 2%;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size:x-large;font-weight: 400;">
+  My profile
+</h2>
+<div class="card">
+    <img src="assets/name.jpg" alt="John" style="width:100%">
+    <h1>Username</h1>
+    <p class="title">username@gmail.com</p>
+    
+</div>
+
+  <mat-accordion class="example-headers-align">
+    <mat-expansion-panel hideToggle>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Edit Name
+        </mat-panel-title>
+        <mat-panel-description>
+          Type your name 
+          <mat-icon>account_circle</mat-icon>
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+  
+      <mat-form-field appearance="fill">
+        <mat-label>First name</mat-label>
+        <input matInput [(ngModel)]="name">
+      </mat-form-field>
+      <mat-action-row>
+        <button mat-button color="warn">Cancel</button>
+        <button mat-button color="primary" (click)="editname()">Save Changes</button>
+      </mat-action-row>
+    </mat-expansion-panel>
+  
+    <mat-expansion-panel  hideToggle>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+         Edit Email
+        </mat-panel-title>
+        <mat-panel-description>
+          Type your new email
+          <mat-icon>mail</mat-icon>
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+  
+      <mat-form-field appearance="fill">
+        <mat-label>Email</mat-label>
+        <input matInput [(ngModel)]="email">
+      </mat-form-field>
+  
+      <mat-action-row>
+        <button mat-button color="warn" >Cancel</button>
+        <button mat-button color="primary" (click)="editemail()" >Save Changes</button>
+      </mat-action-row>
+    </mat-expansion-panel>
+  
+    <mat-expansion-panel  hideToggle>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Edit Phone Number
+        </mat-panel-title>
+        <mat-panel-description>
+          Type your new phone number
+          <mat-icon>phone</mat-icon>
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+  
+      <mat-form-field appearance="fill">
+        <mat-label>Phone Number</mat-label>
+        <input matInput [(ngModel)]="phone">
+      </mat-form-field>
+  
+      <mat-action-row>
+        <button mat-button color="warn" >Cancel</button>
+        <button mat-button color="primary" (click)="editphone()" >Save Changes</button>
+      </mat-action-row>
+    </mat-expansion-panel>
+  
+    <mat-expansion-panel  hideToggle>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Edit Password
+        </mat-panel-title>
+        <mat-panel-description>
+          Type your new password
+          <mat-icon>key</mat-icon>
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+  
+      <mat-form-field appearance="fill">
+        <mat-label>Password</mat-label>
+        <input matInput [(ngModel)]="password">
+      </mat-form-field>
+  
+      <mat-action-row>
+        <button mat-button color="warn" >Cancel</button>
+        <button mat-button color="primary" (click)="editpassword()" >Save Changes</button>
+      </mat-action-row>
+    </mat-expansion-panel>
+    <mat-expansion-panel  hideToggle>
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+         Edit Pincode
+        </mat-panel-title>
+        <mat-panel-description>
+          Type your new area pincode
+          <mat-icon>editlocation</mat-icon>
+        </mat-panel-description>
+      </mat-expansion-panel-header>
+  
+      <mat-form-field appearance="fill">
+        <mat-label>Pincode</mat-label>
+        <input matInput [(ngModel)]="pincode">
+      </mat-form-field>
+  
+      <mat-action-row>
+        <button mat-button color="warn" >Cancel</button>
+        <button mat-button color="primary" (click)="editpincode()">Save Changes</button>
+      </mat-action-row>
+    </mat-expansion-panel>
+</mat-accordion>
+  

@@ -1,0 +1,168 @@
+[{
+  "id": 101,
+  "Name": "Golden Printed Shirt",
+  "price":7999.00,
+  "Brand":"Versache",
+  "image": "/assets/1.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 102,
+  "Name": "Blue Formal Shirt",
+  "price":9999.00,
+  "Brand":"Raymond",
+  "image": "/assets/2.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 103,
+  "Name": "Winter Denim Jacket",
+  "price":4989.00,
+  "Brand":"Zara",
+  "image": "/assets/3.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 104,
+  "Name": "White T-Shirt",
+  "price":1499.00,
+  "Brand":"Trends",
+  "image": "/assets/4.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 105,
+  "Name": "White Office Casual Shirt",
+  "price":11199.00,
+  "Brand":"Raymond",
+  "image": "/assets/5.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 106,
+  "Name": "Blue Blazer",
+  "price":8999.00,
+  "Brand":"Raymond",
+  "image": "/assets/6.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 107,
+  "Name": "Casual Shorts",
+  "price":2599.00,
+  "Brand":"Allen Solly",
+  "image": "/assets/7.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 108,
+  "Name": "Black Printed Tee",
+  "price":5799.00,
+  "Brand":"Versache",
+  "image": "/assets/8.webp",
+  "category":"mensclothing"
+},
+{
+  "id": 109,
+  "Name": "Grey Blazer",
+  "price":7799.00,
+  "Brand":"Raymond",
+  "image": "/assets/9.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 110,
+  "Name": "White Casual Shirt",
+  "price":5899.00,
+  "Brand":"Zara",
+  "image": "/assets/10.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 111,
+  "Name": "Black Prined Shirt",
+  "price":799.00,
+  "Brand":"Versache",
+  "image": "/assets/11.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 112,
+  "Name": "Black Prited Tee",
+  "price":799.00,
+  "Brand":"Versache",
+  "image": "/assets/12.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 113,
+  "Name": "White Casual T-Shirt",
+  "price":3999.00,
+  "Brand":"Polo",
+  "image": "/assets/13.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 114,
+  "Name": "Black Prined Shirt",
+  "price":799.00,
+  "Brand":"Versache",
+  "image": "/assets/14.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 115,
+  "Name": "Red T-Shirt",
+  "price":2599.00,
+  "Brand":"Versache",
+  "image": "/assets/15.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 116,
+  "Name": "White Formal Shirt",
+  "price":7599.00,
+  "Brand":"Peter England",
+  "image": "/assets/16.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 117,
+  "Name": "Brown Leather Jacket",
+  "price":14599.00,
+  "Brand":"Roadster",
+  "image": "/assets/17.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 118,
+  "Name": "Winter Leather Jackets",
+  "price":7399.00,
+  "Brand":"Roadster",
+  "image": "/assets/18.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 119,
+  "Name": "Cream Casual Shorts",
+  "price":2799.00,
+  "Brand":"Peter England",
+  "image": "/assets/19.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 120,
+  "Name": "Denim Jacket",
+  "price":3799.00,
+  "Brand":"Zara",
+  "image": "/assets/20.jpg",
+  "category":"mensclothing"
+},
+{
+  "id": 121,
+  "Name": "Casual Denim",
+  "price":3299.00,
+  "Brand":"Zara",
+  "image": "/assets/21.jpeg",
+  "category":"mensclothing"
+}]

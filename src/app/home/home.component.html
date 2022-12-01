@@ -1,0 +1,127 @@
+<app-navbar></app-navbar>
+
+
+<mat-tab-group>
+<mat-tab label="All">
+<div class="big">
+    <div class="row row-cols-3 row-cols-sm-4">
+        <div class="cardContainer inactive" *ngFor="let item of productList">
+            <div class="card" >
+                <div class="side front">
+                    <img class="img" src={{item.image}} alt="Card image cap">
+                    <div class="info">
+                        <div class="product-details">
+                            <span class="product-catagory"> 
+                                <p class="card-text"><span></span>{{item.Name}}</p>
+                                <p class="card-text"><span><strong>Rs.</strong></span><strong>{{item.price}}</strong></p>
+                                <p class="card-text"><span></span>{{item.Brand}}</p></span><br>
+                                <button class ="btn btn-dark" (click)=addtoCart(item)>Add to Cart</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</mat-tab>
+
+
+
+<mat-tab label="Women's Clothing">
+    <div class="big">
+        <div class="row row-cols-3 row-cols-sm-4">
+            <div class="cardContainer inactive" *ngFor="let item of women">
+                <div class="card">
+                    <div class="side front">
+                        <img class="img" src={{item.image}} alt="Card image cap">
+                        <div class="info">
+                            <div class="product-details">
+                                <span class="product-catagory"> 
+                                    <p class="card-text"><span></span>{{item.Name}}</p>
+                                    <p class="card-text"><span><strong>Rs.</strong></span><strong>{{item.price}}</strong></p>
+                                    <p class="card-text"><span></span>{{item.Brand}}</p></span><br>
+                                    <button class ="btn btn-dark" (click)=addtoCart(item)>Add to Cart</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</mat-tab>
+
+<mat-tab label="Men's wear">
+    <div class="big">
+        <div class="row row-cols-3 row-cols-sm-4">
+            <div class="cardContainer inactive" *ngFor="let item of men">
+                <div class="card">
+                    <div class="side front">
+                        <img class="img" src={{item.image}} alt="Card image cap">
+                        <div class="info">
+                            <div class="product-details">
+                                <span class="product-catagory"> 
+                                    <p class="card-text"><span></span>{{item.Name}}</p>
+                                    <p class="card-text"><span><strong>Rs.</strong></span><strong>{{item.price}}</strong></p>
+                                    <p class="card-text"><span></span>{{item.Brand}}</p></span><br>
+                                    <button class ="btn btn-dark" (click)=addtoCart(item)>Add to Cart</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</mat-tab>
+
+
+<mat-tab label="Kids">
+    <div class="big">
+        <div class="row row-cols-3 row-cols-sm-4">
+            <div class="cardContainer inactive" *ngFor="let item of kids">
+                <div class="card">
+                    <div class="side front">
+                        <img class="img" src={{item.image}} alt="Card image cap">
+                        <div class="info">
+                            <div class="product-details">
+                                <span class="product-catagory"> 
+                                    <p class="card-text"><span></span>{{item.Name}}</p>
+                                    <p class="card-text"><span><strong>Rs.</strong></span><strong>{{item.price}}</strong></p>
+                                    <p class="card-text"><span></span>{{item.Brand}}</p></span><br>
+                                    <button class ="btn btn-dark" (click)=addtoCart(item)>Add to Cart</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</mat-tab>
+
+<mat-tab label="Shoes">
+    <div class="big">
+        <div class="row row-cols-3 row-cols-sm-4">
+            <div class="cardContainer inactive" *ngFor="let item of shoes">
+                <div class="card">
+                    <div class="side front">
+                        <img class="img" src={{item.image}} alt="Card image cap">
+                        <div class="info">
+                            <div class="product-details">
+                                <span class="product-catagory"> 
+                                    <p class="card-text"><span></span>{{item.Name}}</p>
+                                    <p class="card-text"><span><strong>Rs.</strong></span><strong>{{item.price}}</strong></p>
+                                    <p class="card-text"><span></span>{{item.Brand}}</p></span><br>
+                                    <button class ="btn btn-dark" (click)=addtoCart(item)>Add to Cart</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</mat-tab>
+</mat-tab-group>
+
+    
+
+
+

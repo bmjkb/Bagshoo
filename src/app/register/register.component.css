@@ -1,0 +1,82 @@
+@import url(https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css);
+
+
+.container{
+    padding-top: 3%;
+    width:60%;
+
+}
+.card{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size:15px;
+    background: none;
+}
+.card-header{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+}
+
+.rtl{
+    text-decoration: none;
+    cursor:pointer;
+    padding-left: 110px;
+    color: white;
+}
+.example-spacer {
+    flex:1 1 auto;
+}
+.example-icon login-icon{
+      padding-left:20% ;
+}
+.queen{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 5px;
+}
+input[type="text"]{
+    background: url("/assets/name.jpg") no-repeat scroll 7px 7px;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: 96% 55%;
+    padding-right: 10px;
+}
+input[type="email"]{
+    background: url("/assets/email1.jpg") no-repeat scroll 7px 7px;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: 96% 55%;
+    padding-right: 10px;
+}
+input[type="password"]{
+    background: url("/assets/pass1.jpg") no-repeat scroll 7px 7px;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: 96% 55%;
+    padding-right: 10px;
+}
+input[type="tel"]{
+    background: url("/assets/phone.png") no-repeat scroll 7px 7px;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: 96% 55%;
+    padding-right: 10px;
+}
+input[type="pincode"]{
+    background: url("/assets/pincode.jpg") no-repeat scroll 7px 7px;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: 96% 55%;
+    padding-right: 10px;
+}
+
+body{
+    background-image: url("/assets/login.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.bn{
+    margin-left: 10%;
+}

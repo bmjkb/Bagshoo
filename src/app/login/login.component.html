@@ -1,0 +1,28 @@
+<body>
+	<div class="card">
+	<div class="row-md-2 row-sm-1 row-lg-5">
+	  <h4 class="card-header">Login</h4>
+	  <div class="card-body">
+		  <form [formGroup]="service.formValidates">
+			  <div class="form-group">
+				  <label for="email">Email</label>
+				<input type="email" formControlName="Email" class="form-control" name="email" placeholder="Enter your email" required [(ngModel)]="email"/>
+				</div><br>
+			  <div class="form-group">
+				<label for="password">Password</label>
+				<input type="password" formControlName="Password" class="form-control" name="password" placeholder="Enter Password" required [(ngModel)]="password"/>
+			</div><br>
+			<div class="form-group">
+				<button mat-raised-button color="accent" (click)= "login()"[disabled]="service.formValidates.invalid">
+					<span></span>
+					Login
+				</button>&nbsp;
+				<button mat-raised-button color="accent" (click)="Clear()">Clear</button>
+				<a class="rtl" routerLink="/register">New User? Register</a>
+				<button class="bn" mat-raised-button color="accent" routerLink="/">Back</button>
+			</div>
+		  </form>
+	  </div>
+	</div>
+  </div>
+</body>
